@@ -11,6 +11,8 @@ jobs:
   pull:
     runs-on: ubuntu-latest
     steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
       - name: Fetching README.md
         run: wget https://damien.pobel.fr/github/README.md
       - name: Commiting if needed
