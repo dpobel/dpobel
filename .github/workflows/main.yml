@@ -14,7 +14,7 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
       - name: Fetching README.md
-        run: wget https://damien.pobel.fr/github/README.md
+        run: wget https://damien.pobel.fr/github/README.md -O README.md
       - name: Commiting if needed
         run: |
           git config --global user.email "damien@pobel.fr"
