@@ -19,7 +19,7 @@ résumé](https://damien.pobel.fr/page/cv/).
 * [« Au cas où »](https://damien.pobel.fr/post/au-cas-ou/)
 
 
-## Les derniers billets ([Flux RSS](https://damien.pobel.fr/rss.xml/))
+## Les derniers billets ([Flux RSS](https://damien.pobel.fr/rss.xml))
 
 * [Tests : mon top 8 des anti-patrons les plus agaçants](https://damien.pobel.fr/post/tests-antipatterns-agacants/)
 * [Pourquoi utiliser des hooks sur-mesure dans vos composants React](https://damien.pobel.fr/post/custom-hooks-react/)
