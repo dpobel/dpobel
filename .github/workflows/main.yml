@@ -1,0 +1,21 @@
+name: Pull README
+
+on:
+  schedule:
+  - cron: "0 2 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetching README.md
+        run: wget https://damien.pobel.fr/github/README.md
+      - name: Commiting if needed
+        run: |
+          git config --global user.email "damien@pobel.fr"
+          git config --global user.name "Damien Pobel"
+          git diff --quiet || (git add README.md && git commit -m "chore: automatic README.md update")
+          git push 
