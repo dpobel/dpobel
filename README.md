@@ -15,8 +15,6 @@ résumé](https://damien.pobel.fr/page/cv/).
 * [Quand de mauvaises pratiques causent un bug](https://damien.pobel.fr/post/mauvaises-pratiques-bugs/)
 * [« Clean Code » résumé en quelques lignes](https://damien.pobel.fr/post/clean-code/)
 * [La juste dose de commentaires ?](https://damien.pobel.fr/post/juste-dose-commentaires-dans-le-code/)
-* [Les vertus de la revue de code](https://damien.pobel.fr/post/vertus-revue-de-code/)
-* [« Au cas où »](https://damien.pobel.fr/post/au-cas-ou/)
 
 
 ## Les derniers billets ([Flux RSS](https://damien.pobel.fr/rss.xml))
