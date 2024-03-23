@@ -19,11 +19,11 @@ résumé](https://damien.pobel.fr/page/cv/).
 
 ## Les derniers billets ([Flux RSS](https://damien.pobel.fr/rss.xml))
 
+* [La qualité est systémique](https://damien.pobel.fr/post/la-qualite-est-systemique/)
 * [La maintenabilité comme critère de décision](https://damien.pobel.fr/post/la-maintenabilite-comme-critere-de-decision/)
 * [Utils et helper sont sur un bateau…](https://damien.pobel.fr/post/utils-helper-sont-sur-un-bateau/)
 * [Quelques défis liés à l'édition d'un logiciel destiné à être intégré](https://damien.pobel.fr/post/quelques-defis-editeur-logiciel-integration/)
 * [Tests : mon top 8 des anti-patrons les plus agaçants](https://damien.pobel.fr/post/tests-antipatterns-agacants/)
 * [Pourquoi utiliser des hooks sur-mesure dans vos composants React](https://damien.pobel.fr/post/custom-hooks-react/)
 * [Maximiser l'efficacité des développeur·ses](https://damien.pobel.fr/post/maximiser-efficacite-developpeurs/)
-* [Un écran de démarrage et un gestionnaire de session avec vim-startify](https://damien.pobel.fr/post/ecran-demarrage-session-vim-startify/)
 
