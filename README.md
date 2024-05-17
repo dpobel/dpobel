@@ -1,4 +1,4 @@
-Hi, I'm Damien and this is my personal Github profile. You can also find me on
+Hi 👋 I'm Damien and this is my personal Github profile. You can also find me on
 [Mastodon](https://piaille.fr/@dpobel) or
 [Linkedin](https://www.linkedin.com/in/dpobel/). I have a website as well with [a
 blog](https://damien.pobel.fr/posts/) (mostly in French) and [my
@@ -6,7 +6,7 @@ résumé](https://damien.pobel.fr/page/cv/).
 
 <hr>
 
-## Quelques billets notables
+## ✨️ Quelques billets notables ✨️
 
 * [Maximiser l'efficacité des développeur·ses](https://damien.pobel.fr/post/maximiser-efficacite-developpeurs/)
 * [Au fait, c'est quoi un bon test unitaire, d'intégration ou fonctionnel ?](https://damien.pobel.fr/post/bon-test-unitaire-integration-fonctionnel/)
@@ -17,7 +17,7 @@ résumé](https://damien.pobel.fr/page/cv/).
 * [La juste dose de commentaires ?](https://damien.pobel.fr/post/juste-dose-commentaires-dans-le-code/)
 
 
-## Les derniers billets ([Flux RSS](https://damien.pobel.fr/rss.xml))
+## ✍️  Les derniers billets ([Flux RSS](https://damien.pobel.fr/rss.xml))
 
 * [Structurer les tests pour les rendre plus lisibles et maintenables](https://damien.pobel.fr/post/structurer-tests-lisibles-describe/)
 * [La qualité est systémique](https://damien.pobel.fr/post/la-qualite-est-systemique/)
