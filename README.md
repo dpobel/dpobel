@@ -19,11 +19,11 @@ resume](https://damien.pobel.fr/page/cv/).
 
 ## ✍️  Les derniers billets ([Flux RSS](https://damien.pobel.fr/rss.xml))
 
+* [Chasser le superflu](https://damien.pobel.fr/post/chasser-le-superflu/)
 * [Personnaliser et rendre dynamique son profil GitHub](https://damien.pobel.fr/post/personnaliser-rendre-dynamique-son-profil-github/)
 * [Structurer les tests pour les rendre plus lisibles et maintenables](https://damien.pobel.fr/post/structurer-tests-lisibles-describe/)
 * [La qualité est systémique](https://damien.pobel.fr/post/la-qualite-est-systemique/)
 * [La maintenabilité comme critère de décision](https://damien.pobel.fr/post/la-maintenabilite-comme-critere-de-decision/)
 * [Utils et helper sont sur un bateau…](https://damien.pobel.fr/post/utils-helper-sont-sur-un-bateau/)
 * [Quelques défis liés à l'édition d'un logiciel destiné à être intégré](https://damien.pobel.fr/post/quelques-defis-editeur-logiciel-integration/)
-* [Tests : mon top 8 des anti-patrons les plus agaçants](https://damien.pobel.fr/post/tests-antipatterns-agacants/)
 
