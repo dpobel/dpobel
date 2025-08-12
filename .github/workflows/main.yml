@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
       - name: Fetching README.md
         run: wget https://damien.pobel.fr/github/README.md -O README.md
       - name: Commiting if needed
